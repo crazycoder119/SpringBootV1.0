@@ -11,3 +11,6 @@ Spring-Boot-Test001
     </dependency> 
 dependency
 * From application we call SpringApplication.run(Application.class, args); run method.
+
+* We can use this site 
+"https://start.spring.io/" to generate spring packages such as security, AO, cloud, web etc. 
